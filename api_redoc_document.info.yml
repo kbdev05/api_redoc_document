@@ -1,0 +1,11 @@
+name: OpenApi Redoc Document Converter
+description: "Converts your OpenAPI spec into an Valid document format using Redoc"
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9 || ^10
+package: OpenApi
+
+# Information added by Drupal.org packaging script on 2020-08-09
+version: '9.0.0'
+project: 'api_redoc_document'
+datestamp: 1596986807
